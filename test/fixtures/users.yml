@@ -1,11 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  email: MyString
   firmid: 1
-  last_activity: 2015-10-09 13:40:51
+  username: MyString
+  password: MyString
+  last_login: MyString
+  number_of_logins: MyString
+  seller_id: MyString
+  legacy_seller_id: MyString
 
 two:
-  email: MyString
   firmid: 1
-  last_activity: 2015-10-09 13:40:51
+  username: MyString
+  password: MyString
+  last_login: MyString
+  number_of_logins: MyString
+  seller_id: MyString
+  legacy_seller_id: MyString
